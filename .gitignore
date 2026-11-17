@@ -1,0 +1,3 @@
+# third-party datasheets: link, do not redistribute
+*.pdf
+.DS_Store
