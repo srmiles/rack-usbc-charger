@@ -77,7 +77,10 @@ The U1E needs **≥ 21.5 V input** for its 20 V / 65 W profile. That's why this 
 
 ## Sources
 
-Dimensions come from the Mean Well LRS-200 datasheet (case 207), the CKCS U1E spec sheet, and measurements of real parts. The datasheets aren't included here; get them from Mean Well and from your board seller.
+Dimensions come from the two datasheets below and from measurements of real parts. The datasheets aren't included in this repo because they belong to their makers.
+
+- **Mean Well LRS-200 series** (case 207 drawing): [LRS-200-SPEC.PDF](https://www.meanwell.com/Upload/PDF/LRS-200/LRS-200-SPEC.PDF)
+- **CKCS U1E**: there's no official public datasheet. The spec sheet comes from the board seller; search for "CKCS U1E PD65W". The model uses PCB 32 × 20 × 1.6 mm with the USB-C port centred on the 20 mm edge. Measured on real boards: half-holes 4 mm from the USB end and 7 mm from the rear.
 
 ## License
 
